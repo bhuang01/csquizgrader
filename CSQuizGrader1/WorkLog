@@ -1,0 +1,24 @@
+Main Problems:
+  What libraries should we use?
+  
+Structure of our project:
+  Step 1: Convert to text file
+      -Use smart indent
+  Step 2: Run file in java 
+      -smart indent
+  Step 3: Convert the person's code into a java file
+  
+  Step 4: Run the java file with sample input and output
+  
+  Step 5: Analyze their code. Make a text file that has comments for each part of the code. 
+      Ex. (if there's an error, return the error statement. if it works return works!)
+      
+  Step 6: store number of problems correct and number wrong to determine final grade.
+  
+ 
+ 
+ 
+ 
+Extensions:
+    1. Make grading smarter by giving the partial credit for completing the most important parts of the code. 
+    Also if there's small syntax errors such as missing a semicolon it shouldn't count.
